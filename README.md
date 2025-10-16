@@ -49,3 +49,11 @@ npm run dev
 * `npm run build` ->	Genera una versión lista para producción
 * `npm run preview`	-> Previsualiza la build localmente
 * `npm run lint`	-> Ejecuta el linter para revisar el código
+
+
+## Despliegue en Azure  
+Para el despliegue hice la creación de un servicio de ***Static Web App*** de Azure, el cual se puede visitar en el siguiente enlace
+
+https://lemon-stone-0c62b0b0f.1.azurestaticapps.net/
+
+a pesar de esto y de haber creado el servicio para la API, no se puede probar a entereza dado que no hubo la oportunidad de crear la base de datos con un servicio SQL de Azure, lo cual queda como un paso siguiente.
